@@ -35,6 +35,9 @@
 **Ctrl+C Ctrl+V Studios**
 
 ---
+## 📱 Скачать
+[⬇️ Скачать APK или ZIP](https://github.com/wrthsiy/pobeg_ot_TZK/releases/tag/game)
+---
 
 ## ⚠️ Дисклеймер
 
